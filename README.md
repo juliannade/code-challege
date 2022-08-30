@@ -15,6 +15,7 @@ NOTE: Without a webserver modern browsers will throw a CORS issue since the prot
 
 ## Demo
 [Demo](demo.mov)
+![Demo](demo.gif)
 
 ## TODO
 1. use offset to display time when clicked on city relative to the users device
